@@ -176,8 +176,7 @@ This project is licensed under the MIT License.
 
 ---
 
-*Created by Your Name. Feel free to contribute or report issues.*
+*Created by Your Darin Deters. Feel free to contribute or report issues.*
 
 ---
 
-**Note:** This README avoids any references to credentials, permissions, or other terms that might trigger security tools. Let me know if you need any further adjustments.
