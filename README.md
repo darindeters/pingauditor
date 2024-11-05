@@ -1,4 +1,3 @@
-Certainly! Here's the updated README without any references to credentials or permissions, addressing your company's security concerns:
 
 ---
 
@@ -34,7 +33,7 @@ This PowerShell script reads a list of server names from a CSV file, pings each 
 
    - Clone the repository using Git:
      ```bash
-     git clone https://github.com/yourusername/your-repo-name.git
+     git clone https://github.com/darindeters/pingauditor.git
      ```
    - Or download the ZIP file and extract it to your desired location.
 
